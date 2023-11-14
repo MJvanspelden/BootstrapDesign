@@ -1,0 +1,100 @@
+.container-fluid-nav, .Footer{
+    background: linear-gradient(0deg, rgba(177, 54, 226, 0.9) 0%, rgba(98, 40, 204, 0.9) 100%), url(../img/hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-fluid-counts{
+    background-image: url(../img/counts-bg.png);
+    background-size: cover;
+}
+
+.container-fluid-12-freq {
+    background: linear-gradient(0deg, rgba(177, 54, 226, 0.9) 0%, rgba(98, 40, 204, 0.9) 100%)
+}
+
+.container-fluid-12-pricing {
+    background-color: beige;
+}
+
+.Services {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.Features {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Testimonial {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Portfolio {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.PRICING {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.googleMaps {
+    width: 640px;
+}
+
+.cardServices {
+    padding: 30px;
+    margin: 5px;
+    border: transparent;
+}
+
+.cardTestimonial {
+    border: transparent;
+}
+
+.Testimonials {
+    width: 90px;
+    padding-top: 20px;
+    border: transparent;
+    border-radius: 50%;
+}
+
+.FREQUENTLYASKEDQUESTIONS {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.portfolioImg {
+    padding-top: 30px;
+}
+
+button {
+    background: linear-gradient(0deg, rgba(177, 54, 226, 0.9) 0%, rgba(98, 40, 204, 0.9) 100%), url(../img/counts-bg.png);
+    border: transparent;
+}
+
+.nav-button {
+    background: transparent;
+    border: 1px solid white;
+}
+
+.alert {
+    background-color: transparent;
+}
+
+.bigtext{
+    padding-top: 300px;
+}
+
+.imgFeatures {
+    width: 500px;
+}
